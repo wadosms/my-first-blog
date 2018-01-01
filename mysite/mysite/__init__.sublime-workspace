@@ -1,0 +1,549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pu",
+				"published_date"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"Choi",
+				"ChoiceInLine"
+			],
+			[
+				"qu",
+				"question_text"
+			],
+			[
+				"Q",
+				"QuestionAdmin"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"assert",
+				"assertContains"
+			],
+			[
+				"pas",
+				"past_question"
+			],
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"la",
+				"latest_question_list"
+			],
+			[
+				"ques",
+				"question_text"
+			],
+			[
+				"crea",
+				"create_question"
+			],
+			[
+				"que",
+				"question_text"
+			],
+			[
+				"da",
+				"days"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"old",
+				"old_question"
+			],
+			[
+				"fut",
+				"future_question"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"ge",
+				"generic"
+			],
+			[
+				"q",
+				"question_id"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"sele",
+				"selected_choice"
+			],
+			[
+				"for",
+				"forloop"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"wit",
+				"with_promo"
+			],
+			[
+				"fla",
+				"flatten_gen"
+			],
+			[
+				"sw",
+				"sw_person_generator"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"sta",
+				"start_value"
+			],
+			[
+				"Coll",
+				"CollatzSeq"
+			],
+			[
+				"In",
+				"InvalidDayError"
+			],
+			[
+				"Date",
+				"DateError"
+			],
+			[
+				"Da",
+				"DateError"
+			],
+			[
+				"I",
+				"InvalidDayError"
+			],
+			[
+				"con",
+				"conferences"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"d",
+				"difference"
+			],
+			[
+				"Nu",
+				"NumberTooSmallError"
+			],
+			[
+				"N",
+				"NumberTooBigError"
+			],
+			[
+				"nu",
+				"number_to_guess"
+			],
+			[
+				"number",
+				"number_to_guess"
+			],
+			[
+				"c",
+				"coords"
+			],
+			[
+				"li",
+				"list1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3196,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vadim/Documents/Projects/djangogirls/mysite/blog/models.py",
+			"settings":
+			{
+				"buffer_size": 570,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vadim/Documents/Projects/djangogirls/mysite/manage.py",
+			"settings":
+			{
+				"buffer_size": 538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vadim/Documents/Projects/djangogirls/mysite/blog/admin.py",
+			"settings":
+			{
+				"buffer_size": 116,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vadim/Documents/Projects/djangogirls/mysite",
+		"/home/vadim/Documents/Projects/djangogirls/mysite/blog",
+		"/home/vadim/Documents/Projects/djangogirls/mysite/blog/migrations",
+		"/home/vadim/Documents/Projects/djangogirls/mysite/blog/migrations/__pycache__",
+		"/home/vadim/Documents/Projects/djangogirls/mysite/mysite"
+	],
+	"file_history":
+	[
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/polls/urls.py",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/polls/templates/polls/result.html",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/polls/templates/polls/index.html",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/polls/templates/polls/detail.html",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/templates/admin/base_site.html",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/mysite/settings.py",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/polls/views.py",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/polls/admin.py",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/polls/static/polls/style.css",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/polls/tests.py",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/polls/models.py",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/manage.py",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/mysite/urls.py",
+		"/home/vadim/Documents/Projects/roman_numbers.py",
+		"/home/vadim/Documents/Projects/test_bank_account.py",
+		"/home/vadim/Documents/Projects/bank_account.py",
+		"/home/vadim/Documents/Projects/test.py",
+		"/home/vadim/Documents/Projects/flatten.py",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/urls.py",
+		"/home/vadim/Documents/Projects/django_venv/first_django_proj/mysite/mysite/wsgi.py",
+		"/home/vadim/Documents/Projects/zadanie_domowe_5/zadanie4.py",
+		"/home/vadim/Documents/Projects/zadanie_domowe_5/zadanie3.py",
+		"/home/vadim/Documents/Projects/zadanie_domowe_5/zadanie2.py",
+		"/home/vadim/Documents/Projects/zadanie_domowe_5/zadanie1.py",
+		"/home/vadim/Documents/Projects/warsztat_5/test.py",
+		"/home/vadim/Documents/Projects/zadanie_domowe_4/zadanie1.py",
+		"/home/vadim/Documents/Projects/warsztat_5/test",
+		"/home/vadim/Documents/Projects/zadanie_domowe/zadanie1.py",
+		"/home/vadim/Documents/daft_python/warsztat_3/zadanie_1.py",
+		"/home/vadim/Documents/test.py",
+		"/home/vadim/Documents/Projects/Vector/Vector.py",
+		"/home/vadim/Documents/daft_python/warsztat_3/test.py",
+		"/home/vadim/Documents/guess.py",
+		"/home/vadim/Documents/conference.py",
+		"/home/vadim/Documents/tadeusz.py",
+		"/home/vadim/Documents/Projects/Vector/vector.py",
+		"/home/vadim/Documents/daft_python/warsztat_3/zadanie_1"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								862,
+								862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/vadim/Documents/Projects/djangogirls/mysite/blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/vadim/Documents/Projects/djangogirls/mysite/manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/vadim/Documents/Projects/djangogirls/mysite/blog/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
